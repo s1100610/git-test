@@ -11,10 +11,15 @@
 - $ git branch "new branch name" -> make new branch
 - $ git branch -> show all branches
 - $ git checkout "branch name" -> switch to the branch
+- $ git merge "マージ元のブランチ" -> カレントブランチへマージ
+- $ git branch -D "branch name" -> delete branch
+- $ git checkout -b "new branch name" -> make and switch new branch
+
 
 ## Tips for VS Code
 - Ctrl+Shift+@ -> Open terminal
 - ">"
+
 
 ## Tips for MD(Markdown language)
 - "1.","2." -> Ordered list
