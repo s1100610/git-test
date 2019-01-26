@@ -8,6 +8,9 @@
 - $ git commit -m "comment"
 - $ git remote add origin "URL"
 - $ git push origin master
+- $ git branch "new branch name" -> make new branch
+- $ git branch -> show all branches
+- $ git checkout "branch name" -> switch to the branch
 
 ## Tips for VS Code
 - Ctrl+Shift+@ -> Open terminal
